@@ -22,6 +22,10 @@ Most notable changes are:
 
 * Support for splash screens
 * Drop **wp7** as platform
+* An experimental feature that allows to persists the currently added plugins to config.xml. Try it out as:
+  - `cordova save plugins --experimental`
+  - and later when you check out the project without a plugins folder:
+  - `cordova restore plugins --experimental`
 
 
 Other changes include:
