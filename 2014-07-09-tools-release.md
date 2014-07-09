@@ -18,7 +18,7 @@ To update your tools:
     npm update -g cordova
     npm update -g plugman
 
-Most notable changes include:
+Most notable changes are:
 
 * Support for splash screens
 * Drop wp7 as platform
