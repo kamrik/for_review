@@ -26,6 +26,7 @@ Most notable changes are:
   - `cordova save plugins --experimental`
   - and later when you check out the project without a plugins folder:
   - `cordova restore plugins --experimental`
+  - Read [Gorkem Ercan's post](http://www.gorkem-ercan.com/2014/06/sharing-cordova-projects-becomes-easier.html) for details.
 
 
 Other changes include:
