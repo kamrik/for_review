@@ -15,8 +15,8 @@ New versions of `plugman`, `cordova` and `cordova-lib` are now live!
 
 To update your tools:
 
-    npm update -g cordova
-    npm update -g plugman
+    npm install -g cordova
+    npm install -g plugman
 
 Most notable changes are:
 
