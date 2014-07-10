@@ -27,6 +27,8 @@ Most notable changes are:
   - and later when you check out the project without a plugins folder:
   - `cordova restore plugins --experimental`
   - Read [Gorkem Ercan's post](http://www.gorkem-ercan.com/2014/06/sharing-cordova-projects-becomes-easier.html) for details.
+* We are experimenting with using `browserify` to package our `cordova.js` build artifact. This is an internal change to our tooling, and is currently still off-by-default.  We would appreciate feedback since we hope to switch to on-by-default in a future release.  Try it using plugman as:
+ - `plugman (un)install --browserify --project [PROJECT] --plugin [PLUGIN] --platform [ios|android]`
 
 
 Other changes include:
