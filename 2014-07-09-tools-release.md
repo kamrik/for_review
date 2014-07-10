@@ -3,7 +3,7 @@ layout: post
 author:
     name: Mark Koudritsky
     url: https://github.com/kamrik
-title:  "Tools Release: July 9, 2014"
+title:  "Tools Release: July 10, 2014"
 categories: news
 tags: release tools
 ---
